@@ -20,16 +20,6 @@ Real-time OCR system for detecting and validating Georgian university ID codes u
 2. Configure camera URL in `config.py`
 3. Run: `python main.py`
 
-## Project Structure
-```
-src/
-├── config.py         # Configuration and constants
-├── camera_handler.py # IP camera management
-├── image_processor.py # OCR and image processing
-├── display_manager.py # Display interface
-└── main.py          # Application entry point
-```
-
 ## Credits
 This project uses [EasyOCR](https://github.com/JaidedAI/EasyOCR) for text detection and recognition.
 
