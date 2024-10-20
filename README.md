@@ -18,7 +18,7 @@ Real-time OCR system for detecting and validating Georgian university ID codes u
 ## Setup
 1. Install dependencies: `pip install -r requirements.txt`
 2. Configure camera URL in `config.py`
-3. Run: `python src/main.py`
+3. Run: `python main.py`
 
 ## Project Structure
 ```
